@@ -11,9 +11,13 @@
 ![project-explorer-composite-build](https://github.com/earuile-bubble/composite-build/assets/89979817/a1d887d0-178f-4f20-83b1-c103e5680ad7)
 
 ### Git
-For better git UI experience, go to `Settings`->`Version Control`->`Directory Mappings` and using `+`/`-` buttons configure it so all 3 directories are git roots:![git-config-composite-build](https://github.com/earuile-bubble/composite-build/assets/89979817/b085ebfd-db15-4efa-b034-9a57c9ecbdfe)
+For better git UI experience, go to `Settings`->`Version Control`->`Directory Mappings` and using `+`/`-` buttons configure it so all 3 directories are git roots:
 
-Then, open git commit pane and in `View Options` select `Group By`->`Repository`:![git-group-by-composite-build](https://github.com/earuile-bubble/composite-build/assets/89979817/f8e3acdc-8bd4-4f40-833a-f607d8f621cf)
+![git-config-composite-build](https://github.com/earuile-bubble/composite-build/assets/89979817/b085ebfd-db15-4efa-b034-9a57c9ecbdfe)
+
+Then, open git commit pane and in `View Options` select `Group By`->`Repository`:
+
+![git-group-by-composite-build](https://github.com/earuile-bubble/composite-build/assets/89979817/f8e3acdc-8bd4-4f40-833a-f607d8f621cf)
 
 ### Build&Run
 There are 4 predefined configurations: 
