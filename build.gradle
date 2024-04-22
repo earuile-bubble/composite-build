@@ -1,0 +1,7 @@
+tasks.register('runServer') {
+    dependsOn gradle.includedBuild('server').task(':message-processor:bootRun')
+}
+
+tasks.register('runClientDesktop') {
+    dependsOn gradle.includedBuild('client-desktop').task(':bootRun')
+}

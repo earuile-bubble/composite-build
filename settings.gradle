@@ -1,0 +1,6 @@
+includeBuild('../bubble-client/desktop') {
+    name = 'client-desktop'
+}
+includeBuild('../bubble-server') {
+    name = 'server'
+}
